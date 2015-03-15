@@ -1,0 +1,3 @@
+Es trata de crear un joc per a la plataforma NDS en ARM, l'objectiu del qual és anar clickant "quadres" d'una matriu per a fer-los desaparèixer a ells i als del mateix color. És necessari que hi hagin més de dos quadres per a poder fer-los desaparèixer, i la puntuació es donarà basada en la quantitat de quadres que esborrem en un sol click.
+
+Llenguatge i llibreries usades: ARM, C, libnds de devkitPro.
